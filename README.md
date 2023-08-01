@@ -1,2 +1,6 @@
 # web-scraping
-web scraping is a process of extracting data from websites.It is one way of collecting data for further analysis.This scraped data can be used in Data analysis and data science project
+Most of the informations are available in the websites through various forms.The collection of data from the website/web pages through a program is called as web scraping.Web scraping is the automated method to collect the information/data from the websites and storing in a file/database.
+This collected information can be used for analysis and further research purpose.
+
+Python provides us some good libraries for achieving the web scraping.
+Beautifullsoup and selenium are some of the libraries used for web scraping in python.
